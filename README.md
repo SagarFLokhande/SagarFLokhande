@@ -1,4 +1,4 @@
-- Hi, I’m @SagarFLokhande. A physicist by training, interested in the intersection research and technology.
+- Hi, I’m @SagarFLokhande. A physicist by training, interested in working at the intersection research and technology.
 - In particular, I’m interested in Statistics, Python, Physical Models, Simulations, R and Unix Shell.
 - I’m currently learning R and advanced SQL. 
 - How to reach me: Gmail - sagar.f.lokhande@gmail.com
