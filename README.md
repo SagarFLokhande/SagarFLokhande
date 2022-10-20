@@ -9,7 +9,7 @@ Machine Learning algorithms.
 
 * How to reach me: 
 1. Gmail - sagar.f.lokhande@gmail.com
-2. inkedIn : https://www.linkedin.com/in/sagar-f-lokhande-1550a1250/ 
+2. LinkedIn : https://www.linkedin.com/in/sagar-f-lokhande-1550a1250/ 
 
 <!---
 SagarFLokhande/SagarFLokhande is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
